@@ -1,0 +1,7 @@
+*.pyc
+!.gitignore
+*.pth
+output/
+*.jpeg
+*.jpg
+data/
